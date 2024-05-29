@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yuyang Luo",
+    "label": "CS Master Student at Brown University",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yuyang_luo@brown.edu",
+    "phone": "(978)655-0150",
+    "url": "https://lyygua.github.io/",
+    "summary": "I'm a CS master student at Brown University. I'm interested in topics in AI Trustworthy area, especially in the field of improving adversarial transferability and robustness of LLMs.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "85 Waterman St",
+      "postalCode": "RI 02912",
+      "city": "Providence",
       "countryCode": "US",
-      "region": "California"
+      "region": "Rhode Island"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
