@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Release project 1
+
+<!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
