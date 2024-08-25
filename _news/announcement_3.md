@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Release project 1
-
-<!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
