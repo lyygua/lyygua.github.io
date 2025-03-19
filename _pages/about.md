@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year M.Sc. student in Computer Science at Brown University and an incoming Ph.D. student in Computer Science at Emory University. I received my B.Eng. from Huazhong University of Science and Technology in 2023. My research focuses on Trustworthy AI, with an emphasis on adversarial machine learning in computer vision and natural language processing. In addition to my research, I have served as a Head Teaching Assistant at Brown University and contributed to AI education and outreach initiatives.
+Hi, there! I am a second-year M.Sc. student in Computer Science at Brown University and an incoming Ph.D. student in Computer Science at Emory University. I received my B.Eng. from Huazhong University of Science and Technology in 2023. My research focuses on Trustworthy AI, with an emphasis on adversarial machine learning in computer vision and natural language processing. In addition to my research, I have served as a Head Teaching Assistant at Brown University and contributed to AI education and outreach initiatives.
 
 Outside of academia, I enjoy playing basketball, weightlifting, playing the guitar, and reading.
 
