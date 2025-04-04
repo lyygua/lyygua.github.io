@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! I am a second-year M.Sc. student in Computer Science at Brown University and an incoming Ph.D. student in Computer Science at Emory University. I received my B.Eng. from Huazhong University of Science and Technology in 2023. My research focuses on Trustworthy AI, with an emphasis on adversarial machine learning in computer vision and natural language processing. In addition to my research, I have served as a Head Teaching Assistant at Brown University and contributed to AI education and outreach initiatives.
+Hi, there! I am a second-year M.Sc. student in Computer Science at Brown University and an incoming Ph.D. student in Computer Science at Emory University. I received my B.Eng. from Huazhong University of Science and Technology in 2023. My research focuses on Trustworthy AI, with an emphasis on adversarial machine learning in computer vision and natural language processing. In addition to my research, I have served as a Head TA for ML and DL courses at Brown and taught foundational CS and AI concepts to high school students through the IgniteCS outreach program.
 
-Outside of academia, I enjoy playing basketball, weightlifting, playing the guitar, and reading.
+Outside of academia, I enjoy playing basketball, weightlifting, and reading.
 
 <!-- My research interest is Trustworthy AI. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -45,13 +45,14 @@ Outside of academia, I enjoy playing basketball, weightlifting, playing the guit
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *June 2022* MindSpore AI Innovation Training Camp: First Prize in AI Innovation Training Camp and awarded MindSpore open-source community internship.  
-- *Feb 2022* Meritorious Winner, Mathematical Contest In Modeling: COMAP Rank Top 7% among all participants.  
-- *Oct 2021 & Oct 2020* Individual Scholarship on Arts and Sports: Recognition for students with exceptional performance in arts and sports activities (Rank Top 2%).  
-- *Apr 2020* Freshman Scholarship: Recognition for freshmen with excellent academic performance (Rank Top 2%).
+<!-- - *June 2022* MindSpore AI Innovation Training Camp: First Prize in AI Innovation Training Camp and awarded MindSpore open-source community internship.   -->
+- *Feb 2022* Meritorious Winner, Meritorious Winner, Mathematical Contest in Modeling (COMAP): Ranked in the top 7% among all participants.
+- *Oct 2021 & Oct 2020* Individual Scholarship on Arts and Sports: Awarded for outstanding performance in arts and sports activities (Top 2%).
+- *Apr 2020* Freshman Scholarship: Granted for academic excellence during the freshman year (Top 2%).
 
 
 # 📖 Educations
+- *2025.09 -*, PhD, Computer Science and Informatics, Emory University
 - *2023.09 - 2025.05 (expected)*, M.S., Computer Science, Brown University
 - *2019.09 - 2023.06*, B.Eng., Computer Science, Huazhong University of Science and Technolgoy
 
