@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuyang Luo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Brown University, Master of Computer Science"
-  location         : "Providence, RI"
+  bio              : "Emory University, PhD student in Computer Science and Informatics."
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CnXBSrwAAAAJ"
-  email            : "yuyang_luo@brown.edu"
+  email            : "yuyang.luo@emory.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
