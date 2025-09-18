@@ -26,6 +26,7 @@ I always welcome opportunities to connect and chat about research, collaboration
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025).
 - *2025.03*: &nbsp;🎉🎉 Admitted to the PhD program at Emory University! Looking forward to this new chapter.
 - *2023.03*: &nbsp;🎉🎉 Admitted to the ScM CS program at Brown University! Excited for the journey ahead.
 
@@ -40,7 +41,7 @@ I always welcome opportunities to connect and chat about research, collaboration
   <li>
     <a href="https://arxiv.org/abs/2505.19911"><strong>Attention! Your Vision-Language Model Could Be Maliciously Manipulated</strong></a><br/>
     <em>Xiaosen Wang, Shaokang Wang, Zhijin Ge, <strong>Yuyang Luo</strong>, Shudong Zhang</em><br/>
-    <span>arXiv preprint, 2025</span>
+    <span>Advances in Neural Information Processing Systems (NeurIPS), 2025</span>
   </li>
 
   <li>
