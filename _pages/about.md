@@ -90,7 +90,7 @@ I always welcome opportunities to connect and chat about research, collaboration
 - *2019.09 – 2023.06* — **B.Eng.**, Computer Science, Huazhong University of Science and Technology 
 
 # Academic Services
-- **Conference Reviewer**: WWW 2026
+- **Conference Reviewer**: WWW 2026, PAKDD 2026
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
