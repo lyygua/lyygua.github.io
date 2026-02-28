@@ -30,7 +30,7 @@ I always welcome opportunities to connect and chat about research, collaboration
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2602.23117"><strong>Devling into Adversarial Transferability on Image Classification: Review, Benchmark, and Evaluation</strong></a><br/>
-    <em>Xiaosen Wang, Zhijin Ge, Bohan Liu, Zheng Fang, Fengfan Zhou, Ruixuan Zhang, Shaokang Wang, <strong>Yuyang Luo</strong><br/>
+    <em>Xiaosen Wang, Zhijin Ge, Bohan Liu, Zheng Fang, Fengfan Zhou, Ruixuan Zhang, Shaokang Wang, <strong>Yuyang Luo</strong></em><br/>
     <span>arXiv preprint, 2026</span>
   </li>
   <li>
