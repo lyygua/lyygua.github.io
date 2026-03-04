@@ -29,10 +29,27 @@ I always welcome opportunities to connect and chat about research, collaboration
 # Publications 
 <ul>
   <li>
-    <a href="https://arxiv.org/abs/2602.23117"><strong>Devling into Adversarial Transferability on Image Classification: Review, Benchmark, and Evaluation</strong></a><br/>
-    <em>Xiaosen Wang, Zhijin Ge, Bohan Liu, Zheng Fang, Fengfan Zhou, Ruixuan Zhang, Shaokang Wang, <strong>Yuyang Luo</strong></em><br/>
-    <span>arXiv preprint, 2026</span>
-  </li>
+  <a href="https://arxiv.org/abs/2602.23117">
+    <strong>Devling into Adversarial Transferability on Image Classification: Review, Benchmark, and Evaluation</strong>
+  </a>
+  <br/>
+
+  <a href="https://github.com/Trustworthy-AI-Group/TransferAttack" target="_blank" rel="noopener">
+    <strong>Code: TransferAttack</strong>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Trustworthy-AI-Group/TransferAttack" target="_blank" rel="noopener">
+    <img
+      alt="GitHub stars"
+      src="https://img.shields.io/github/stars/Trustworthy-AI-Group/TransferAttack.svg?style=social&label=Stars&cacheSeconds=3600"
+    />
+  </a>
+  <br/>
+
+  <em>Xiaosen Wang, Zhijin Ge, Bohan Liu, Zheng Fang, Fengfan Zhou, Ruixuan Zhang, Shaokang Wang, <strong>Yuyang Luo</strong></em>
+  <br/>
+  <span>arXiv preprint, 2026</span>
+</li>
   <li>
     <a href="https://arxiv.org/abs/2507.16052"><strong>Disrupting Semantic and Abstract Features for Better Adversarial Transferability</strong></a><br/>
     <em><strong>Yuyang Luo</strong>, Xiaosen Wang, Zhijin Ge, Yingzhe He</em><br/>
@@ -45,7 +62,7 @@ I always welcome opportunities to connect and chat about research, collaboration
     <span>Advances in Neural Information Processing Systems (NeurIPS), 2025</span>
   </li>
 
-  <li>
+  <!-- <li>
     <a href="https://github.com/Trustworthy-AI-Group/TransferAttack"><strong>TransferAttack</strong></a>
     <span id="stars-transferattack"></span><br/>
     <em>Xiaosen wang, Zhijin Ge, Shaokang Wang, <strong>Yuyang Luo</strong>, et al.</em><br/>
@@ -58,7 +75,7 @@ I always welcome opportunities to connect and chat about research, collaboration
     .then(data => {
       document.getElementById("stars-transferattack").textContent = `⭐ ${data.stargazers_count}`;
     });
-  </script>
+  </script> -->
 </ul>
 
 # Honors and Awards
