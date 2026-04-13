@@ -23,11 +23,14 @@ I always welcome opportunities to connect and chat about research, collaboration
 
 # News
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025).
-- *2025.03*: &nbsp;🎉🎉 Admitted to the PhD program at Emory University! Looking forward to this new chapter.
-- *2023.03*: &nbsp;🎉🎉 Admitted to the ScM CS program at Brown University! Excited for the journey ahead.
 
 # Publications 
 <ul>
+  <li>
+    <a href="https://arxiv.org/abs/2604.03295"><strong>Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems</strong></a><br/>
+    <em>Shanglin Wu, <strong>Yuyang Luo</strong>, Yueqing Liang, Kaiwen Shi, Yanfang Ye, Ali Payani, Kai Shu</em><br/>
+    <span>arXiv preprint, 2026</span>
+  </li>
   <li>
   <a href="https://arxiv.org/abs/2602.23117">
     <strong>Devling into Adversarial Transferability on Image Classification: Review, Benchmark, and Evaluation</strong>
@@ -78,11 +81,11 @@ I always welcome opportunities to connect and chat about research, collaboration
   </script> -->
 </ul>
 
-# Honors and Awards
-<!-- - *June 2022* MindSpore AI Innovation Training Camp: First Prize in AI Innovation Training Camp and awarded MindSpore open-source community internship.   -->
+<!-- # Honors and Awards
+- *June 2022* MindSpore AI Innovation Training Camp: First Prize in AI Innovation Training Camp and awarded MindSpore open-source community internship.  
 - *Feb 2022* Meritorious Winner, Meritorious Winner, Mathematical Contest in Modeling (COMAP): Ranked in the top 7% among all participants.
 - *Oct 2021 & Oct 2020* Individual Scholarship on Arts and Sports: Awarded for outstanding performance in arts and sports activities (Top 2%).
-- *Apr 2020* Freshman Scholarship: Granted for academic excellence during the freshman year (Top 2%).
+- *Apr 2020* Freshman Scholarship: Granted for academic excellence during the freshman year (Top 2%). -->
 
 
 # Educations
