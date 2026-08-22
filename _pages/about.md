@@ -17,15 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in Computer Science and Informatics at *Emory University*, advised by [Prof. Kai Shu](https://www.cs.emory.edu/~kshu5/). I hold an Sc.M. in Computer Science from Brown University and a B.Eng. in Computer Science from Huazhong University of Science and Technology. My research interests lie in Trustworthy Artificial Intelligence, with a particular emphasis on adversarial machine learning across computer vision and natural language processing. In addition to research, I have contributed to broadening access to computer science education by teaching fundamental CS and AI concepts to high school students through the IgniteCS outreach program. Outside of academia, I pursue personal interests in basketball, strength training, and reading. 
+I am a second-year Ph.D. student in Computer Science and Informatics at *Emory University*, advised by [Prof. Kai Shu](https://www.cs.emory.edu/~kshu5/). I hold an Sc.M. in Computer Science from Brown University and a B.Eng. in Computer Science from Huazhong University of Science and Technology. My research interests lie in Trustworthy AI, with a particular emphasis on adversarial machine learning across computer vision and natural language processing. In addition to research, I have contributed to broadening access to computer science education by teaching fundamental CS and AI concepts to high school students through the IgniteCS outreach program. Outside of academia, I pursue personal interests in basketball, strength training, and reading. 
 
 I always welcome opportunities to connect and chat about research, collaborations, or shared interests.
 
 # News
+- *2026.08*: &nbsp;🎉🎉 One paper was accepted by [CIKM 2026](https://cikm2026.diag.uniroma1.it/)
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025).
 
 # Publications 
 <ul>
+  <li>
+  <a href="https://arxiv.org/abs/2608.08303"><strong>Query-Only Backdoor Attacks on Self-Evolving Skills via Trajectory Poisoning</strong></a><br/>
+  <em><strong>Yuyang Luo</strong>, Haoran Wang, Kai Shu</em><br/>
+  <span>arXiv preprint, 2026</span>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2604.03295"><strong>Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems</strong></a><br/>
     <em>Shanglin Wu, <strong>Yuyang Luo</strong>, Yueqing Liang, Kaiwen Shi, Yanfang Ye, Ali Payani, Kai Shu</em><br/>
@@ -64,21 +70,6 @@ I always welcome opportunities to connect and chat about research, collaboration
     <em>Xiaosen Wang, Shaokang Wang, Zhijin Ge, <strong>Yuyang Luo</strong>, Shudong Zhang</em><br/>
     <span>Advances in Neural Information Processing Systems (NeurIPS), 2025</span>
   </li>
-
-  <!-- <li>
-    <a href="https://github.com/Trustworthy-AI-Group/TransferAttack"><strong>TransferAttack</strong></a>
-    <span id="stars-transferattack"></span><br/>
-    <em>Xiaosen wang, Zhijin Ge, Shaokang Wang, <strong>Yuyang Luo</strong>, et al.</em><br/>
-    <span>Open-source adversarial attack library</span>
-  </li>
-
-  <script>
-  fetch("https://api.github.com/repos/Trustworthy-AI-Group/TransferAttack")
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById("stars-transferattack").textContent = `⭐ ${data.stargazers_count}`;
-    });
-  </script> -->
 </ul>
 
 <!-- # Honors and Awards
@@ -94,7 +85,7 @@ I always welcome opportunities to connect and chat about research, collaboration
 - *2019.09 – 2023.06* — **B.Eng.**, Computer Science, Huazhong University of Science and Technology 
 
 # Academic Services
-- **Conference Reviewer**: WWW 2026, PAKDD 2026, KDD 2026 AI4Sciences
+- **Conference Reviewer/Sub-reviewer**: KDD{2026, 2027}, NeurIPS{2025, 2026}, ICLR{2025, 2026}, ACML{2026}, SDM{2026}, COLM{2026}, SIGIR{2026}, WWW{2026}, PAKDD{2026}, ACM MM{2025}, ACL ARR{2025}
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
