@@ -28,6 +28,11 @@ I always welcome opportunities to connect and chat about research, collaboration
 # Publications 
 <ul>
   <li>
+  <a href="https://arxiv.org/abs/2608.21577"><strong>Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning</strong></a><br/>
+  <em><strong>Yuyang Luo</strong>, Kai Shu</em><br/>
+  <span>ACM International Conference on Information and Knowledge Management (CIKM), 2026</span>
+  </li>
+  <li>
   <a href="https://arxiv.org/abs/2608.08303"><strong>Query-Only Backdoor Attacks on Self-Evolving Skills via Trajectory Poisoning</strong></a><br/>
   <em><strong>Yuyang Luo</strong>, Haoran Wang, Kai Shu</em><br/>
   <span>arXiv preprint, 2026</span>
