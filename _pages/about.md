@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in Computer Science and Informatics at *Emory University*, advised by [Prof. Kai Shu](https://www.cs.emory.edu/~kshu5/). I hold an Sc.M. in Computer Science from Brown University and a B.Eng. in Computer Science from Huazhong University of Science and Technology. My research interests lie in Trustworthy AI, with a particular emphasis on adversarial machine learning across computer vision and natural language processing. In addition to research, I have contributed to broadening access to computer science education by teaching fundamental CS and AI concepts to high school students through the IgniteCS outreach program. Outside of academia, I pursue personal interests in basketball, strength training, and reading. 
+I am a second-year Ph.D. student in Computer Science and Informatics at Emory University, advised by [Prof. Kai Shu](https://www.cs.emory.edu/~kshu5/). I received my M.S. defgree in Computer Science from Brown University and my B.Eng. degree in Computer Science from Huazhong University of Science and Technology. My research interests lie in Trustworthy AI, with a particular emphasis on adversarial machine learning across computer vision and natural language processing. In addition to research, I have contributed to broadening access to computer science education by teaching fundamental CS and AI concepts to high school students through the IgniteCS outreach program.
 
 I always welcome opportunities to connect and chat about research, collaborations, or shared interests.
 
@@ -26,12 +26,24 @@ I always welcome opportunities to connect and chat about research, collaboration
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025).
 
 # Publications 
+## Conference Papers
+
 <ul>
   <li>
   <a href="https://arxiv.org/abs/2608.21577"><strong>Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning</strong></a><br/>
   <em><strong>Yuyang Luo</strong>, Kai Shu</em><br/>
   <span>ACM International Conference on Information and Knowledge Management (CIKM), 2026</span>
   </li>
+  <li>
+    <a href="https://arxiv.org/abs/2505.19911"><strong>Attention! Your Vision-Language Model Could Be Maliciously Manipulated</strong></a><br/>
+    <em>Xiaosen Wang, Shaokang Wang, Zhijin Ge, <strong>Yuyang Luo</strong>, Shudong Zhang</em><br/>
+    <span>Advances in Neural Information Processing Systems (NeurIPS), 2025</span>
+  </li>
+</ul>
+
+## Preprints
+
+<ul>
   <li>
   <a href="https://arxiv.org/abs/2608.08303"><strong>Query-Only Backdoor Attacks on Self-Evolving Skills via Trajectory Poisoning</strong></a><br/>
   <em><strong>Yuyang Luo</strong>, Haoran Wang, Kai Shu</em><br/>
@@ -70,11 +82,6 @@ I always welcome opportunities to connect and chat about research, collaboration
     <span>arXiv preprint, 2025</span>
   </li>
 
-  <li>
-    <a href="https://arxiv.org/abs/2505.19911"><strong>Attention! Your Vision-Language Model Could Be Maliciously Manipulated</strong></a><br/>
-    <em>Xiaosen Wang, Shaokang Wang, Zhijin Ge, <strong>Yuyang Luo</strong>, Shudong Zhang</em><br/>
-    <span>Advances in Neural Information Processing Systems (NeurIPS), 2025</span>
-  </li>
 </ul>
 
 <!-- # Honors and Awards
