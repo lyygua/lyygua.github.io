@@ -97,14 +97,14 @@ I always welcome opportunities to connect and chat about research, collaboration
 - *2019.09 – 2023.06* — **B.Eng.**, Computer Science, Huazhong University of Science and Technology 
 
 # Teaching
-- CS 350: System Programming, Emory University, Fall 2026
-- CS 570: Data Mining, Emory University, Spring 2026
-- CS 255: Computer Architecture/Machine Level Programming, Emory University, Fall 2025
-- CSCI 1470: Deep Learning, Brown University, Spring 2025
-- DATA 2060: Machine Learning, Brown University, Fall 2024
+- CS 350: System Programming, Emory University, Fall 2026 *(Teaching Assistant)*
+- CS 570: Data Mining, Emory University, Spring 2026 *(Teaching Assistant)*
+- CS 255: Computer Architecture/Machine Level Programming, Emory University, Fall 2025 *(Teaching Assistant)*
+- CSCI 1470: Deep Learning, Brown University, Spring 2025 *(Head Teaching Assistant)*
+- DATA 2060: Machine Learning, Brown University, Fall 2024 *(Head Teaching Assistant)*
 
 # Academic Services
-- **Conference Reviewer/Sub-reviewer**: KDD{2026, 2027}, NeurIPS{2025, 2026}, ICLR{2025, 2026}, ACML{2026}, SDM{2026}, COLM{2026}, SIGIR{2026}, WWW{2026}, PAKDD{2026}, ACM MM{2025}, ACL ARR{2025}
+- **Conference Reviewer/Sub-reviewer**: WSDM{2027}, KDD{2026, 2027}, NeurIPS{2025, 2026}, ICLR{2025, 2026}, ACML{2026}, SDM{2026}, COLM{2026}, SIGIR{2026}, WWW{2026}, PAKDD{2026}, ACM MM{2025}, ACL ARR{2025}
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
