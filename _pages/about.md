@@ -104,7 +104,7 @@ I always welcome opportunities to connect and chat about research, collaboration
 - DATA 2060: Machine Learning, Brown University, Fall 2024 *(Head Teaching Assistant)*
 
 # Academic Services
-- **Conference Reviewer/Sub-reviewer**: WSDM{2027}, KDD{2026, 2027}, NeurIPS{2025, 2026}, ICLR{2025, 2026}, ACML{2026}, SDM{2026}, COLM{2026}, SIGIR{2026}, WWW{2026}, PAKDD{2026}, ACM MM{2025}, ACL ARR{2025}
+- **Conference Reviewer/Sub-reviewer**: IEEE BigData{2026}, WSDM{2027}, KDD{2026, 2027}, NeurIPS{2025, 2026}, ICLR{2025, 2026}, ACML{2026}, SDM{2026}, COLM{2026}, SIGIR{2026}, WWW{2026}, PAKDD{2026}, ACM MM{2025}, ACL ARR{2025}
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
