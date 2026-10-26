@@ -22,6 +22,7 @@ I am a second-year Ph.D. student in Computer Science and Informatics at Emory Un
 I always welcome opportunities to connect and chat about research, collaborations, or shared interests.
 
 # News
+- *2026.10*: &nbsp;🎉🎉 [JARVIS-Bench](https://openreview.net/forum?id=yGQt9wAGkS) was accepted to NeurIPS 2026 (Evaluations and Datasets Track).
 - *2026.08*: &nbsp;🎉🎉 One paper was accepted by [CIKM 2026](https://cikm2026.diag.uniroma1.it/)
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025).
 
@@ -29,6 +30,11 @@ I always welcome opportunities to connect and chat about research, collaboration
 ## Conference Papers
 
 <ul>
+  <li>
+    <a href="https://openreview.net/forum?id=yGQt9wAGkS"><strong>JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces</strong></a><br/>
+    <em>Weizhi Zhang, Wei-Chieh Huang, Yueqing Liang, &hellip;, <strong>Yuyang Luo</strong>, &hellip;, Kai Shu, Xue Liu, Philip S. Yu</em><br/>
+    <span>Advances in Neural Information Processing Systems (NeurIPS), Evaluations and Datasets Track, 2026</span>
+  </li>
   <li>
   <a href="https://arxiv.org/abs/2608.21577"><strong>Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning</strong></a><br/>
   <em><strong>Yuyang Luo</strong>, Kai Shu</em><br/>
